@@ -49,7 +49,3 @@
 如果百度盘链接失效，可在这里寻找备份数据
 
 
--------------------
-
-
-![](http://image.sciencenet.cn/home/202001/02/203428arifvwgyoyimviye.png)
