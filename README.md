@@ -1,7 +1,7 @@
 [历史文档目录（2019.9-2020.8）](https://mp.weixin.qq.com/s/-g2GkNNfri41c3LY3llm3g)
 
 
-这里是公众号里面历史文档的备份，<span style="color: green">只包含2019年和2020年的</span>，2021年以后的出门右拐（[https://github.com/lyao222lll](https://github.com/lyao222lll)）
+这里是公众号里面历史文档的备份，**只包含2019年和2020年的**，2021年以后的出门右拐（[https://github.com/lyao222lll](https://github.com/lyao222lll)）
 
 看心情瞎写，无固定周期更新
 
